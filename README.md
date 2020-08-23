@@ -14,6 +14,8 @@ laboratuvarında yaşanan şu problemlere de çözüm üretmektedir:
 
 - Laboratuvara yeni bir uygulama yüklemek gerektiğinde tüm bilgisayarlara tek tek yüklemek.
 
+- Kurum için satın alınan bilgisayarların belirli saatlerde hiç kullanılamaması.
+
 - Bir bilgisayarda çok fazla uygulama yüklü olduğu için bilgisayarlarda yaşanan yavaşlama.
 
 - Bazı uygulamaların gereksinimleri, bilgisayar donanım özelliklerinin üstünde olması.
